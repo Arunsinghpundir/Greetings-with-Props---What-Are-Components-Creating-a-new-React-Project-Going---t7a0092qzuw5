@@ -4,7 +4,7 @@ import React from "react";
     return (
     <div>
         <h1>Hey !{student.name}</h1>
-        
+        <h2>{student.children}</h2>
     </div>
     )
 }
